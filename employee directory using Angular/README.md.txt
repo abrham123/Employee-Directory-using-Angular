@@ -1,0 +1,1 @@
+This project is employee Directory using AngularJS by Abrham Birru.
